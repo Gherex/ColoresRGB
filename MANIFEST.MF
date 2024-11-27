@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Gherex | germilagger@gmail.com
+Main-Class: ColoresRGB
+X-COMMENT: Práctica de Java con Swing
